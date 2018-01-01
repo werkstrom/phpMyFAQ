@@ -1,4 +1,4 @@
-# phpMyFAQ 3.0.0-dev
+# phpMyFAQ 4.0.0-dev
 
 [![Build Status 3.0.0-dev](https://secure.travis-ci.org/thorsten/phpMyFAQ.png?branch=master)](http://travis-ci.org/thorsten/phpMyFAQ)
 [![Build Status 2.9.x](https://secure.travis-ci.org/thorsten/phpMyFAQ.png?branch=2.9)](http://travis-ci.org/thorsten/phpMyFAQ)
